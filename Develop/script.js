@@ -31,6 +31,9 @@ $(document).ready(function() {
             console.log("schedulehours" + schedulehours);
             console.log("currenthourMilitary" + currentHourMilitary);
 
+            // convert moment to integers by parseInt
+            currentHourMilitary = parseInt(currentHourMilitary);
+            schedulehours = parseInt(schedulehours);
          // 2. color coding - past, present, future  
             if (schedulehours == currentHourMilitary) { 
                 text.attr("class", "col-8 present")

@@ -22,10 +22,10 @@ View the [Github-pages](https://jesshuang7.github.io/Work_Day_Schedule/)
 ## About the Project:
 The focus of this project was to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. Each time block is color-coded to indicate whether it is in the past, present, or future. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. 
 
-![Project Gif](Assets/Code_Quiz.gif)
+![Project Gif](Assets/schedule.gif)
 
 ### HTML:
-* [index.html](https://github.com/jesshuang7/Work_Day_Schedule/blob/master/Develop/index.html)
+* [index.html](https://github.com/jesshuang7/Work_Day_Schedule/blob/master/index.html)
 
 ### Develop:
 * [style.css](https://github.com/jesshuang7/Work_Day_Schedule/blob/master/Develop/style.css)
