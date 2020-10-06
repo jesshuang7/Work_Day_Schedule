@@ -25,10 +25,10 @@ The focus of this project was to create a simple calendar application that allow
 ![Project Gif](Assets/Code_Quiz.gif)
 
 ### HTML:
-* [index.html](https://github.com/jesshuang7/Work_Day_Schedule/blob/master/index.html)
+* [index.html](https://github.com/jesshuang7/Work_Day_Schedule/blob/master/Develop/index.html)
 
 ### Develop:
-* [style.css](https://github.com/jesshuang7/Work_Day_Schedule/blob/master/Assets/style.css)
+* [style.css](https://github.com/jesshuang7/Work_Day_Schedule/blob/master/Develop/style.css)
 
 ### Built With:
 * This app is build upon [Bootstrap Framework](https://www.getbootstrap.com), [Font Awesome](https://fontawesome.com/), & [Moment.js](https://momentjs.com/).
